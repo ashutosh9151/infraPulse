@@ -1,0 +1,11 @@
+scheme_name,category,priority_states,budget_cr_inr,status,focus_districts_example
+PM Gati Shakti,Road,"Bihar,Uttar Pradesh,Odisha,Jharkhand,Assam",25000,Active,"Muzaffarpur,Bahraich,Kalahandi"
+Jal Jeevan Mission,Water,"Bihar,Rajasthan,Odisha,Madhya Pradesh,Uttar Pradesh",18000,Active,"Barmer,Araria,Malkangiri,Bahraich"
+Samagra Shiksha,Education,"Bihar,Uttar Pradesh,Jharkhand,Madhya Pradesh,Chhattisgarh",12000,Active,"Nandurbar,Gaya,Alirajpur"
+Ayushman Bharat - Health Infrastructure,Health,"Bihar,Uttar Pradesh,Odisha,Assam,Jharkhand",15000,Active,"Kalahandi,Shravasti,Dhemaji"
+Saubhagya + Solar,Energy,"Rajasthan,Bihar,Odisha,Madhya Pradesh,Assam",8000,Active,"Jaisalmer,Barmer,Malkangiri"
+Swachh Bharat Mission 2.0,Sanitation,"Bihar,Uttar Pradesh,Jharkhand,Odisha,West Bengal",9000,Active,"Dumka,Latehar,Araria"
+National Rural Health Mission,Health,"All high-poverty districts",11000,Active,"Gadchiroli,Bastar,Alirajpur"
+Pradhan Mantri Gram Sadak Yojana,Road,"Bihar,Uttar Pradesh,Madhya Pradesh,Odisha,Chhattisgarh",14000,Active,"Sitamarhi,Chhatarpur,Bastar"
+Flood Management Programme,Flood Protection,"Assam,Bihar,West Bengal,Odisha",6500,Active,"Dhemaji,Kokrajhar,Muzaffarpur"
+Digital India - Rural Connectivity,Education,"Aspirational districts",4500,Active,"Alirajpur,Malkangiri,Nandurbar"
