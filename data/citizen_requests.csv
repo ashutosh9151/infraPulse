@@ -1,0 +1,31 @@
+request_id,timestamp,state,district,category,raw_text,urgency,source,lat,lon,language
+REQ001,2025-11-12T09:15:00,Bihar,Muzaffarpur,Road,"The main road from Muzaffarpur to Sitamarhi is completely broken after rains. Ambulances cannot pass. Please repair urgently.",High,WhatsApp,26.12,85.39,en
+REQ002,2025-11-13T14:22:00,Uttar Pradesh,Bahraich,Water,"No clean drinking water in our village for 3 months. Women walk 4 km daily. Jal Jeevan Mission not reached us yet.",High,Web,27.57,81.60,en
+REQ003,2025-11-14T08:45:00,Maharashtra,Nandurbar,Education,"Primary school building collapsed in monsoon. 180 children studying under tree. Need new classrooms and toilets.",High,Telegram,21.37,74.24,en
+REQ004,2025-11-15T11:30:00,Tamil Nadu,Ramanathapuram,Energy,"Frequent power cuts of 8-10 hours daily in coastal villages. Affects fishing and students studies.",Medium,WhatsApp,9.37,78.83,en
+REQ005,2025-11-16T16:05:00,Rajasthan,Barmer,Water,"Hand pumps dried up. Water tanker comes once in 10 days. Livestock dying. Need pipeline connection.",High,Voice,25.75,71.39,en
+REQ006,2025-11-17T10:18:00,Odisha,Kalahandi,Health,"Nearest PHC is 28 km away. No ambulance service. Pregnant women suffer a lot. Need sub-centre here.",High,WhatsApp,19.91,83.17,en
+REQ007,2025-11-18T13:40:00,Madhya Pradesh,Chhatarpur,Road,"Bridge on Ken river washed away. Villages cut off for 4 months every year. Need permanent bridge.",High,Web,24.91,79.59,en
+REQ008,2025-11-19T09:55:00,Assam,Dhemaji,Flood Protection,"Embankment breached again. Floods every year destroy crops and houses. Strengthen Brahmaputra embankment.",High,Telegram,27.48,94.58,en
+REQ009,2025-11-20T15:12:00,Jharkhand,Dumka,Sanitation,"No toilets in school or village. Open defecation continues. Swachh Bharat not implemented properly here.",Medium,WhatsApp,24.27,87.25,en
+REQ010,2025-11-21T07:30:00,West Bengal,Maldah,Education,"No high school within 12 km. Girls drop out after class 8. Need secondary school urgently.",High,Web,25.00,88.15,en
+REQ011,2025-11-22T12:05:00,Bihar,Gaya,Water,"Arsenic contaminated water. Many people falling sick. Need safe water treatment plant.",High,WhatsApp,24.78,85.00,en
+REQ012,2025-11-23T18:20:00,Uttar Pradesh,Shravasti,Health,"Only one doctor for 50,000 people. Medicines always out of stock. Upgrade CHC facilities.",High,Voice,27.50,82.00,en
+REQ013,2025-11-24T10:45:00,Chhattisgarh,Bastar,Road,"Forest road to 12 villages is non-existent in monsoon. Tribal children cannot go to school.",High,Telegram,19.10,81.95,en
+REQ014,2025-11-25T14:00:00,Karnataka,Raichur,Energy,"Solar pumps promised but not installed. Farmers dependent on diesel. Need renewable energy support.",Medium,Web,16.20,77.35,en
+REQ015,2025-11-26T09:10:00,Andhra Pradesh,Vizianagaram,Water,"Irrigation canal damaged. 3000 acres no water this season. Repair urgently for rabi crop.",High,WhatsApp,18.12,83.40,en
+REQ016,2025-11-27T16:35:00,Bihar,Araria,Education,"School has only 2 teachers for 5 classes. Mid-day meal irregular. Quality education missing.",Medium,WhatsApp,26.15,87.52,en
+REQ017,2025-11-28T11:25:00,Uttar Pradesh,Siddharthnagar,Road,"NH connection incomplete. Farmers lose money transporting produce. Complete the missing 18 km stretch.",High,Web,27.25,82.80,en
+REQ018,2025-11-29T08:50:00,Maharashtra,Gadchiroli,Health,"No blood bank within 80 km. Emergency cases die on way. Need blood storage facility.",High,Telegram,20.18,80.00,en
+REQ019,2025-11-30T13:15:00,Rajasthan,Jaisalmer,Energy,"Desert villages still without electricity. Solar microgrids promised under Saubhagya not delivered.",High,Voice,26.91,70.92,en
+REQ020,2025-12-01T10:00:00,Odisha,Malkangiri,Water,"Tribal hamlets have no water source. Dependence on streams which dry up. Need tube wells and pipelines.",High,WhatsApp,18.35,81.90,en
+REQ021,2025-12-02T15:40:00,Tamil Nadu,Theni,Road,"Hill road to tea estates damaged. Landslides common. Need retaining walls and proper drainage.",Medium,Web,10.01,77.48,en
+REQ022,2025-12-03T09:20:00,Madhya Pradesh,Alirajpur,Education,"No digital classroom or computer lab. Students lag behind. Need smart class infrastructure.",Medium,WhatsApp,22.30,74.35,en
+REQ023,2025-12-04T12:55:00,Assam,Kokrajhar,Flood Protection,"Annual flooding destroys paddy. Need raised platforms and better drainage system.",High,Telegram,26.40,90.27,en
+REQ024,2025-12-05T17:10:00,Jharkhand,Latehar,Sanitation,"Open drains and garbage everywhere. Disease outbreaks common. Need proper sewage and waste management.",Medium,Web,23.75,84.50,en
+REQ025,2025-12-06T08:05:00,West Bengal,Cooch Behar,Health,"No specialist doctors. Patients travel to Siliguri for everything. Upgrade district hospital.",High,WhatsApp,26.32,89.45,en
+REQ026,2025-12-07T14:30:00,Bihar,Sitamarhi,Road,"Multiple requests for same stretch of NH-104. Completely unmotorable after rains.",High,WhatsApp,26.60,85.50,en
+REQ027,2025-12-08T11:00:00,Uttar Pradesh,Bahraich,Water,"Another request from neighbouring village - same water crisis. Tanker insufficient.",High,Web,27.60,81.65,en
+REQ028,2025-12-09T09:45:00,Maharashtra,Nandurbar,Education,"Parents demanding permanent building. Temporary shed not safe for children.",High,Telegram,21.40,74.30,en
+REQ029,2025-12-10T16:20:00,Rajasthan,Barmer,Water,"Water quality very poor - high fluoride. Dental and bone problems increasing.",High,Voice,25.80,71.45,en
+REQ030,2025-12-11T10:15:00,Odisha,Kalahandi,Health,"Still waiting for the sub-centre. Two more maternal deaths reported this month.",High,WhatsApp,19.95,83.20,en
